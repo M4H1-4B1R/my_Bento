@@ -61,19 +61,19 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://app.tuta.com/mail/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Keep Notes',
+			icon: 'notebook-pen',
+			link: 'https://keep.google.com',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Gemini',
+			icon: 'brain-circuit',
+			link: 'https://gemini.google.com',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -110,9 +110,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Amazon',
+			name: 'E-Bay',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://ebay.com/',
 		},
 		{
 			id: '5',
